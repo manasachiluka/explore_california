@@ -1,2 +1,2 @@
 this is the second temporary file.
-the changes have been made to this should never be tracked anymore.
+the changes that have been made to this should never be tracked anymore.
